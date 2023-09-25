@@ -80,8 +80,5 @@ Conclusão
 
 Este projeto estendeu o projeto guiado da Dataquest, adicionando funcionalidades adicionais úteis para consultar laptops com base em preço e especificações. Além disso, foi realizada uma análise de complexidade para cada função implementada, fornecendo insights sobre o desempenho dessas operações em relação ao tamanho do conjunto de dados. O código também foi devidamente documentado e comentado para facilitar a compreensão.
 
-bash
 
-
-Certifique-se de substituir `"inserir-link-do-video"` pelo link real para o vídeo explicativo quando disponível.
 
