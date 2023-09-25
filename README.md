@@ -1,7 +1,10 @@
 # Projeto Building Fast Queries on a CSV
 
 Este projeto é uma extensão do projeto guiado da Dataquest "Building Fast Queries on a CSV". O objetivo é implementar funcionalidades adicionais, realizar uma análise de complexidade das soluções implementadas e criar um vídeo explicativo sobre o projeto.
-
+# Equipe
+- Pedro Henrique Bezerra Fernandes
+- Pedro Vitor Bezerra Clemente
+- 
 ## Funcionalidades Adicionais
 
 ### Consulta por Faixa de Preço
