@@ -4,7 +4,6 @@ Este projeto é uma extensão do projeto guiado da Dataquest "Building Fast Quer
 # Equipe
 - Pedro Henrique Bezerra Fernandes
 - Pedro Vitor Bezerra Clemente
-- 
 ## Funcionalidades Adicionais
 
 ### Consulta por Faixa de Preço
