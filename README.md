@@ -10,14 +10,14 @@ Foi implementada a funcionalidade de consultar laptops dentro de uma faixa de pr
 Exemplo de uso:
 ```python
 laptops.find_laptops_within_budget_range(min_price=1000, max_price=1500)
-
+```
 Consulta por Especificações
 
 Também foi adicionada a capacidade de buscar laptops com base em especificações desejadas, como quantidade de RAM, capacidade de armazenamento e placa gráfica.
 
 Exemplo de uso:
 
-python
+```python
 
 criteria = {
     'ram': '8GB',
@@ -25,6 +25,7 @@ criteria = {
     'graphics': 'NVIDIA GeForce GTX 1650'
 }
 laptops.find_laptops_by_specifications(**criteria)
+```
 
 Análise de Complexidade
 Função get_laptop_from_id
