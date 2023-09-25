@@ -75,7 +75,7 @@ Documentação e Comentários
 O código está bem documentado com comentários explicativos que detalham as diferentes partes do código e sua funcionalidade.
 Vídeo Explicativo
 
-Assista ao vídeo explicativo sobre o projeto no link aqui.
+[Assista ao vídeo explicativo sobre o projeto aqui](https://www.loom.com/share/3a02b42907a84b95a88c07914549951c)
 Conclusão
 
 Este projeto estendeu o projeto guiado da Dataquest, adicionando funcionalidades adicionais úteis para consultar laptops com base em preço e especificações. Além disso, foi realizada uma análise de complexidade para cada função implementada, fornecendo insights sobre o desempenho dessas operações em relação ao tamanho do conjunto de dados. O código também foi devidamente documentado e comentado para facilitar a compreensão.
